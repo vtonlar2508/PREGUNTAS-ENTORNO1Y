@@ -1,0 +1,81 @@
+1. ¿Qué es el software de sistema operativo?
+
+Sistema operativo y controladores
+
+Suite ofimática, navegador, y otras aplicaciones
+
+Sistema operativo y editores de desarrollo
+
+Editores de desarrollo e intérpretes
+
+2. ¿Cómo se llama al código resultante de la compilación del código fuente escrito en lenguaje JAVA?
+
+Bytecode
+
+Código Script
+
+Megacode
+
+JavaScript
+
+3. ¿Qué tipos de mantenimiento existen?
+
+Correctivo, perfectivo, evolutivo y adaptativo
+
+Correctivo, evolutivo, comprimido y adaptativo
+
+Adaptativo, evolutivo, perfectivo y estratégico
+
+Ninguna es correcta
+
+4. ¿Cuál es el principal objetivo de la fase de pruebas en el ciclo de vida del software?
+
+Conseguir que el programa funcione incorrectamente y que se descubran defectos
+
+Realizar cambios ocasionales
+
+Especificar la funcionalidad de los elementos componentes
+
+Todas son correctas
+
+5. ¿Cómo se jerarquizan los niveles en el modelo de desarrollo en V?
+
+Los niveles superiores indican mayor nivel de abstracción y los inferiores mayor nivel de detalle
+
+Los niveles superiores indican un mayo nivel de detalle y los inferiores mayor nivel de abstracción
+
+No hay niveles de jerarquización en el modelo de desarrollo en V
+
+Los niveles inferiores tienen menos importancia que los superiores
+
+6. ¿Cómo se llaman los diferentes tipos de modelos de construcción de prototipos?
+
+Rápidos y evolutivos
+
+Espiral y bucle
+
+Rápidos y digitales
+
+Ninguna de las anteriores es correcta
+
+7. ¿Cuales son ventajas del código escrito en lenguaje JAVA?
+
+Es estructurado, orientado a objetos, es sencillo añadir nuevas funciones, y gran control sobre el 
+
+Es universal, estable, y otorga un gran control sobre el
+
+Es eficiente al ser universal, y muy estable
+
+Ninguna de las respuestas anteriores es correcta
+
+8. ¿Qué tipos de lenguajes declarativos existen?
+
+Lógicos, funcionales y algebraicos
+
+Lógicos, pertinentes y matemáticos
+
+Multiparadigma, lógicos y estructurados
+
+Declarativos e  imperativos
+ 
+

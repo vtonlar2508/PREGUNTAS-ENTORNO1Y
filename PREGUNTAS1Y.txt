@@ -157,5 +157,53 @@ Léxico y sintáctico
 Ninguno de esos existe
 
 Fuente y compilados
+
+1. ¿Cuáles son los tipos de código en el  desarrollo del software?
+ Fuente, objeto y ejecutable
+ Fuente, organizado y ejecutable
+ Ejecutable, abstracto y Java
+ C, C++ y Python
+
+2. ¿Qué fases principales conocemos en el desarrollo del software?
+ Análisis, diseño, codificación, pruebas y mantenimiento
+ Análisis y experimentación
+ Todas son correctas
+ Ninguna de las anteriores es correcta
+
+3. ¿Para qué sirve un disco duro?
+ Almacena de forma permanente los archivos ejecutables y los archivos de datos
+ Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
+ No sirve para nada
+ Para guardar películas y verlas
+
+4. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
+Se escribe el código fuente del programa
+Se proponen opciones al  cliente para que elija la más óptima a sus necesidades
+Se consigue que funcione incorrectamente el programa y así descubrir los defectos
+Se atiende a las necesidades del cliente y se especifican los requisitos que debe cumplir el software
+
+5. Tipos de modelo de desarrollo de software
+Modelos clásicos, modelo de construcción de prototipos y modelos evolutivos
+Modelos muro, modelos circulares y modelos cuadrados
+Modelo en x y modelo paralelo
+La segunda y tercera respuesta son correctas
+
+6. Como se le denomina a la metodología Kanban
+Se le denomina como el sistema de tarjetas
+Se le denomina como el sistema pizarra
+Se le denomina como el sistema sencillo
+Ninguna de las anteriores es correcta
+
+7. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+Compilar e interpretar
+Analizar y programar
+Revisar e interactuar
+Compilar y analizar
+
+8. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+Bytecode
+Bitcoin
+Bits
+Ball
  
 

@@ -79,3 +79,65 @@ Multiparadigma, lógicos y estructurados
 Declarativos e  imperativos
  
 
+9. Hardware que almacena de forma permanente archivos ejecutables y datos
+
+Disco Duro
+
+Memoria
+
+RAM
+
+CPU
+
+10. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
+
+RAM
+
+CPU
+
+Disco Duro
+
+Memoria
+
+
+11. Una de las fases principales del desarrollo de software son
+
+Todas son correctas
+
+Codificacion
+
+Mantenimiento
+
+Diseño
+
+
+12. Se considera lenguaje de programacion
+
+Java
+
+HTML
+
+XML
+
+Scrum
+
+
+13. Que modelo de desarrollo es el menos eficaz
+
+Modelo en cascada
+
+Modelo en V
+
+Modelo en espiral
+
+Ninguno se utiliza actualmente
+
+
+14. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
+	y que motiva y facilita el trabajo en equipo?
+
+Scrum master
+
+Team
+
+Jefe

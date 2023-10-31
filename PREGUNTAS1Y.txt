@@ -78,4 +78,84 @@ Multiparadigma, lógicos y estructurados
 
 Declarativos e  imperativos
  
+1. ¿Qué es  un código objeto?
+
+Es un archivo binario no ejecutable
+
+Es un archivo binario ejecutable
+
+Es un archivo de texto legible escrito en un lenguaje de programación
+
+Ninguna de las anteriores
+
+2. ¿A qué tipo de software pertenece un compilador?
+
+Software de desarrollo
+
+Software de sistema
+
+software de aplicación
+
+Todas son correctas
+
+3. ¿Cuáles son las fases principales de desarrollo de software?
+
+Análisis, Diseño, Codificación, Pruebas y Mantenimiento
+
+Análisis, Diseño, Codificación, Mantenimiento, Pruebas y Mantenimiento
+
+Análisis, Diseño, Codificación, Mantenimiento y Pruebas
+
+Ninguna de las anteriores
+
+4. ¿Qué características pertenecen al modelo en cascada?
+
+Todas son correctas
+
+Las fases han de indicarse en el orden indicado
+
+Es el modelo de mayor antigüedad
+
+Es un modelo bastante rígido que se adapta mal al cambio continuo de especificaciones
+
+5. ¿Cuál de estos principios no rigen el desarrollo ágil?
+
+Soluciones que no evolucionan con el tiempo según la necesidad
+
+Individuos e interacciones sobre procesos y herramientas
+
+Software funcionando sobre documentación extensiva
+
+Respuesta ante el cambio sobre seguir un plan
+
+6. ¿Cuáles son los valores de la programación externa?
+
+Simplicidad, Comunicación, Retroalimentación, Valentía y Respeto
+
+Simplicidad, Comunicación, Retroalimentación y Respeto
+
+Simplicidad, Comunicación, Valentía y Respeto
+
+Todas son incorrectas
+
+7. ¿Cuáles de estos ejemplos son lenguajes interpretados?
+
+PHP y Javascript
+
+C y C++
+
+PHP y C++
+
+Ninguna de las anteriores
+
+8. ¿A qué tipo de lenguaje pertenece SQL?
+
+Es un tipo de lenguaje declarativo imperativo algebraico
+
+Es un tipo de lenguaje imperativo estructurado
+
+Es un tipo de lenguaje imperativo multiparadigma
+
+Es un tipo de lenguaje imperativo orientado a objetos 
+
 

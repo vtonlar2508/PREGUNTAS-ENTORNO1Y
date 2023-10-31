@@ -78,7 +78,7 @@ Multiparadigma, lógicos y estructurados
 
 Declarativos e  imperativos
 
-1. ¿Que tipo de software son los drivers?
+9. ¿Que tipo de software son los drivers?
 
 Software de sistema
 
@@ -88,7 +88,7 @@ Software de desarrollo
 
 Esta segmentado de estos tipos
 
-2. ¿Qué tipos de código existen?
+10. ¿Qué tipos de código existen?
 
 Ejecutable,objeto y fuente
 
@@ -98,7 +98,7 @@ Interpretado y compilado
 
 Ninguna de las anteriores
 
-3. ¿Cuales son las etapas del desarrollo de software?
+11. ¿Cuales son las etapas del desarrollo de software?
 
 Análisis, diseño, codificación, pruebas y mantenimiento
 
@@ -108,7 +108,7 @@ Análisis, diseño, implementación, pruebas y mantenimiento
 
 Análisis, diseño, codificación, control y mantenimiento
 
-4. ¿En que tipo de mantenimiento se corrigen defectos?
+12. ¿En que tipo de mantenimiento se corrigen defectos?
 
 Correctivo
 
@@ -515,6 +515,94 @@ Funcionales
 
 Algebraicos
 
+
+
+1. Hardware que almacena de forma permanente archivos ejecutables y datos
+
+Disco Duro
+
+Memoria
+
+RAM
+
+CPU
+
+2. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
+
+RAM
+
+CPU
+
+Disco Duro
+
+Memoria
+
+
+3. Una de las fases principales del desarrollo de software son
+
+Todas son correctas
+
+Codificacion
+
+Mantenimiento
+
+Diseño
+
+
+4. Se considera lenguaje de programacion
+
+Java
+
+HTML
+
+XML
+
+Scrum
+
+
+5. Que modelo de desarrollo es el menos eficaz
+
+Modelo en cascada
+
+Modelo en V
+
+Modelo en espiral
+
+Ninguno se utiliza actualmente
+
+
+6. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
+	y que motiva y facilita el trabajo en equipo?
+
+Scrum master
+
+Team
+
+Jefe
+
+Product owner
+
+
+7. Cual es el critero para la seleccion de un lenguaje a la hora de escribir un software
+
+todas son correctas
+
+Base de usuarios
+
+Herramientas de desarrollo
+
+Campo de aplicacion
+
+
+8. Un ejemplo de un lenguaje de programacion de alto nivel es
+
+Java
+
+Html
+
+Lisp
+
+SQL
 
 
 

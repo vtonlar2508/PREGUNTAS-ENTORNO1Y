@@ -157,5 +157,77 @@ Léxico y sintáctico
 Ninguno de esos existe
 
 Fuente y compilados
+1. ¿Qué es un código ejecutable?
+
+Es un conjunto de instrucciones compiladas y enlazadas para ser ejecutadas por una computadora. Es lo que se conoce como archivos con la extensión EXE.
+
+Es todo texto que un ser humano puede leer y escribir en un lenguaje de programación específico. El objetivo de este código es crear normas para el ordenador. Es la base de los programas y de las páginas web.
+
+Es el código que se genera a partir del código fuente y que no se puede ejecutar. Es un lenguaje binario o bytecode que se usa para traducir el lenguaje de programación en instrucciones directas para el procesador.
+
+Ninguna de las anteriores
+2. ¿Cual de estas características no define a un software?
+
+Para su desarrollo se utiliza un lenguaje de programación de bajo nivel.
+
+Es un conjunto de instrucciones para el sistema informático.
+
+Puede modificarse.
+
+Se puede instalar y desinstalar todas las veces que quieras.
+3. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
+
+Identificar, gestionar y planificar el uso de recursos para alcanzar objetivos predefinidos.
+
+Definir el lenguaje de programación a utilizar.
+
+Establecer el diseño detallado de la interfaz de usuario.
+
+Realizar pruebas exhaustivas del software.
+4. ¿Cuáles son las fases principales del desarrollo de software según el texto?
+
+Análisis, diseño, codificación, pruebas, mantenimiento.
+
+Diseño, codificación, mantenimiento, verificación.
+
+Análisis, implementación, pruebas, validación.
+
+Planificación, desarrollo, entrega, postventa.
+5. ¿Cual de estos principios rigen el desarrollo ágil?
+
+Colaboración en lugar de negociaciones contractuales.
+
+Enfoque en documentación completa.
+
+Satisfacción de los procesos y herramientas.
+
+Enfoque en evitar cambios
+6. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
+
+Comunicación efectiva.
+
+Enfoque en documentación extensa.
+
+Resistencia al cambio.
+
+Satisfacción de la burocracia.
+7. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
+
+Se enfocan en especificar "qué" resultado se desea obtener, sin preocuparse por los detalles de implementación.
+
+Se centran en describir "cómo" se debe realizar una tarea paso a paso.
+
+Los programadores deben controlar explícitamente las variables y el flujo de ejecución del programa.
+
+Son específicos para una arquitectura de hardware particular y requieren conocimiento profundo del hardware subyacente.
+8. ¿Cuál es una ventaja de los lenguajes interpretados?
+
+Permiten cambios en tiempo de ejecución y facilitan la experimentación.
+
+Mayor rendimiento en tiempo de ejecución.
+
+Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
+
+Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
  
 

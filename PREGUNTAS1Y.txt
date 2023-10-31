@@ -77,6 +77,86 @@ Lógicos, pertinentes y matemáticos
 Multiparadigma, lógicos y estructurados
 
 Declarativos e  imperativos
+
+1. ¿Que tipo de software son los drivers?
+
+Software de sistema
+
+Software de aplicación
+
+Software de desarrollo
+
+Esta segmentado de estos tipos
+
+2. ¿Qué tipos de código existen?
+
+Ejecutable,objeto y fuente
+
+Fuente, aplicación y desarrollo
+
+Interpretado y compilado
+
+Ninguna de las anteriores
+
+3. ¿Cuales son las etapas del desarrollo de software?
+
+Análisis, diseño, codificación, pruebas y mantenimiento
+
+Análisis, especificación, codificación, pruebas y mantenimiento
+
+Análisis, diseño, implementación, pruebas y mantenimiento
+
+Análisis, diseño, codificación, control y mantenimiento
+
+4. ¿En que tipo de mantenimiento se corrigen defectos?
+
+Correctivo
+
+Perfectivo
+
+Evolutivo
+
+Adaptativo
+
+5. En el modelo de desarrollo en cascada:
+
+No se puede llevar a cabo una tarea sin haber terminado la anterior
+
+Se pueden llevar a cabo tareas de manera simultanea
+
+Se puede cambiar el orden de las etapas de desarrollo
+Todas son incorrectas
+
+6. ¿A que metodología ágil pertenece el termino de Product owner?
+
+Scrum
+
+Kanban
+
+Xp(Programación extrema)
+
+No existe dicho termino
+
+
+7. El modelo en espiral es:
+
+Iterativo
+
+Adaptativo
+
+Predictivo
+
+Relativo
+
+8. Que tipos de lenguajes existen:
+
+Compilados e interpretados
+
+Léxico y sintáctico
+
+Ninguno de esos existe
+
+Fuente y compilados
  
 1. ¿Qué es  un código objeto?
 

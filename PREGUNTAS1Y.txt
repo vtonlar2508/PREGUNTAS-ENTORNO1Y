@@ -78,7 +78,7 @@ Multiparadigma, lógicos y estructurados
 
 Declarativos e  imperativos
 
-1. ¿Que tipo de software son los drivers?
+9. ¿Que tipo de software son los drivers?
 
 Software de sistema
 
@@ -88,7 +88,7 @@ Software de desarrollo
 
 Esta segmentado de estos tipos
 
-2. ¿Qué tipos de código existen?
+10. ¿Qué tipos de código existen?
 
 Ejecutable,objeto y fuente
 
@@ -98,7 +98,7 @@ Interpretado y compilado
 
 Ninguna de las anteriores
 
-3. ¿Cuales son las etapas del desarrollo de software?
+11. ¿Cuales son las etapas del desarrollo de software?
 
 Análisis, diseño, codificación, pruebas y mantenimiento
 
@@ -108,7 +108,7 @@ Análisis, diseño, implementación, pruebas y mantenimiento
 
 Análisis, diseño, codificación, control y mantenimiento
 
-4. ¿En que tipo de mantenimiento se corrigen defectos?
+12. ¿En que tipo de mantenimiento se corrigen defectos?
 
 Correctivo
 

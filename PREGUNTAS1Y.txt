@@ -79,3 +79,246 @@ Multiparadigma, lógicos y estructurados
 Declarativos e  imperativos
  
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. ¿Qué función tiene una tarjeta de RAM?
+
+Almacenar de forma  temporal el códgo binario de los archivos ejecutables
+
+Almacenar de forma permanente los archivos ejecutables  y los archivos de datos
+
+Leer y ejecutar intrucciones
+
+Recoger  datos aleatorios de tu memoria y analizarlos.
+
+2. ¿Cuál de esto codigos es un archivo de texto legible escrito en un lenguaje de programación?
+
+Código fuente
+
+Código objeto
+
+Código ejecutable
+
+Código Binario 
+
+3. ¿Cuál de las siguientes opciones no es un tipo de mantenimiento?
+
+Limpiativo
+
+Correctivo
+
+Perfectivo
+
+Evolutivo
+
+4. ¿Cuál es el orden correcto de las Fases principales de desarrollo de software?
+
+Análisis,Diseño,Codificación,Pruebas,Mantenimiento
+
+Diseño, Análisis, Codificicación,Pruebas,Mantenimiento
+
+Pruebas,Análisis,Diseño, Codificación, Mantenimiento
+
+Mantenimiento,Analisis,Codificación,Extracción
+
+5. ¿Cual de las siguientes opciones no es un modelo de sofware?
+
+Modelo en Y
+
+Modelo en cascada
+
+Modelo V
+
+Modelo en espiral
+
+6. ¿Cuál de estas opciones  es un concepto del método SCRUM?
+
+Todas son correctas
+
+Es un modelo de desarrollo incremental
+
+Iteraciones (sprint) regulares cada 2 a 4 semanas
+
+Al finalizar cada iteración se obtiene una entrega parcial utilizable por el cliente
+
+7. ¿Cuál de estas opciones es un lenguaje compilado?
+
+C++
+
+PHP
+
+Javascript
+
+Python
+
+8. ¿Cuál de estas opciones no es un tipo de lenguaje declarativo?
+
+Analógicos
+
+Lógicos
+
+Funcionales
+
+Algebraicos

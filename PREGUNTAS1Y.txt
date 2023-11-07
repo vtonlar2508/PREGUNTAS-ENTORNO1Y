@@ -1,214 +1,230 @@
-1. ¿Qué es el software de sistema operativo?
+1. El firmware es un...
+software de sistema
+software de desarrollo
+software de aplicación
+hardware
 
-Sistema operativo y controladores
+2. La CPU lee y ejecuta...
+instrucciones en código binario almacenadas en la RAM
+instrucciones en código fuente almacenadas en la RAM
+instrucciones en código binario almacenadas en el disco duro
+instrucciones en código fuente almacenadas en el disco duro
 
-Suite ofimática, navegador, y otras aplicaciones
-
-Sistema operativo y editores de desarrollo
-
-Editores de desarrollo e intérpretes
-
-2. ¿Cómo se llama al código resultante de la compilación del código fuente escrito en lenguaje JAVA?
-
-Bytecode
-
-Código Script
-
-Megacode
-
+3. ¿Cuál de estos no es un lenguaje de programación?
+XML
+C++
+Java
 JavaScript
 
-3. ¿Qué tipos de mantenimiento existen?
+4. ¿Qué se hace en el mantenimiento correctivo?
+Corregir la funcionalidad
+Perfeccionar la funcionalidad
+Corregir la documentación
+Corregir el Backlog
 
+5. ¿Cuáles de las siguientes metodologías NO es ágil?
+En cascada
+Scrum
+Kanban
+Ninguna es ágil
+
+6. ¿Cuál de estas metodologías tiene roles?
+Scrum
+XP
+En cascada
+Todas las metodologías ágiles tienen roles
+
+7. Selecciona la verdadera
+Todas son verdaderas
+El lenguaje compilado es más rápido
+El lenguaje interpretado ofrece más facilidades al desarrollador
+Hay lenguajes que son a la vez compilados e interpretados
+
+8. El código ejectuable es...
+binario
+portable
+compilable
+interpretable
+
+9. ¿Qué es el software de sistema operativo?
+Sistema operativo y controladores
+Suite ofimática, navegador, y otras aplicaciones
+Sistema operativo y editores de desarrollo
+Editores de desarrollo e intérpretes
+
+10. ¿Cómo se llama al código resultante de la compilación del código fuente escrito en lenguaje JAVA?
+Bytecode
+Código Script
+Megacode
+JavaScript
+
+11. ¿Qué tipos de mantenimiento existen?
 Correctivo, perfectivo, evolutivo y adaptativo
-
 Correctivo, evolutivo, comprimido y adaptativo
-
 Adaptativo, evolutivo, perfectivo y estratégico
-
 Ninguna es correcta
 
-4. ¿Cuál es el principal objetivo de la fase de pruebas en el ciclo de vida del software?
-
+12. ¿Cuál es el principal objetivo de la fase de pruebas en el ciclo de vida del software?
 Conseguir que el programa funcione incorrectamente y que se descubran defectos
-
 Realizar cambios ocasionales
-
 Especificar la funcionalidad de los elementos componentes
-
 Todas son correctas
 
-5. ¿Cómo se jerarquizan los niveles en el modelo de desarrollo en V?
-
+13. ¿Cómo se jerarquizan los niveles en el modelo de desarrollo en V?
 Los niveles superiores indican mayor nivel de abstracción y los inferiores mayor nivel de detalle
-
 Los niveles superiores indican un mayo nivel de detalle y los inferiores mayor nivel de abstracción
-
 No hay niveles de jerarquización en el modelo de desarrollo en V
-
 Los niveles inferiores tienen menos importancia que los superiores
 
-6. ¿Cómo se llaman los diferentes tipos de modelos de construcción de prototipos?
-
+14. ¿Cómo se llaman los diferentes tipos de modelos de construcción de prototipos?
 Rápidos y evolutivos
-
 Espiral y bucle
-
 Rápidos y digitales
-
 Ninguna de las anteriores es correcta
 
-7. ¿Cuales son ventajas del código escrito en lenguaje JAVA?
-
+15. ¿Cuales son ventajas del código escrito en lenguaje JAVA?
 Es estructurado, orientado a objetos, es sencillo añadir nuevas funciones, y gran control sobre el 
-
 Es universal, estable, y otorga un gran control sobre el
-
 Es eficiente al ser universal, y muy estable
-
 Ninguna de las respuestas anteriores es correcta
 
-8. ¿Qué tipos de lenguajes declarativos existen?
-
+16. ¿Qué tipos de lenguajes declarativos existen?
 Lógicos, funcionales y algebraicos
-
 Lógicos, pertinentes y matemáticos
-
 Multiparadigma, lógicos y estructurados
-
 Declarativos e  imperativos
 
-9. ¿Que tipo de software son los drivers?
-
+17. ¿Que tipo de software son los drivers?
 Software de sistema
-
 Software de aplicación
-
 Software de desarrollo
-
 Esta segmentado de estos tipos
 
-10. ¿Qué tipos de código existen?
-
+18. ¿Qué tipos de código existen?
 Ejecutable,objeto y fuente
-
 Fuente, aplicación y desarrollo
-
 Interpretado y compilado
-
 Ninguna de las anteriores
 
-11. ¿Cuales son las etapas del desarrollo de software?
-
+19. ¿Cuales son las etapas del desarrollo de software?
 Análisis, diseño, codificación, pruebas y mantenimiento
-
 Análisis, especificación, codificación, pruebas y mantenimiento
-
 Análisis, diseño, implementación, pruebas y mantenimiento
-
 Análisis, diseño, codificación, control y mantenimiento
 
-12. ¿En que tipo de mantenimiento se corrigen defectos?
-
+20. ¿En que tipo de mantenimiento se corrigen defectos?
 Correctivo
-
 Perfectivo
-
 Evolutivo
-
 Adaptativo
 
-13. En el modelo de desarrollo en cascada:
-
+21. En el modelo de desarrollo en cascada:
 No se puede llevar a cabo una tarea sin haber terminado la anterior
-
 Se pueden llevar a cabo tareas de manera simultanea
-
 Se puede cambiar el orden de las etapas de desarrollo
 Todas son incorrectas
 
-14. ¿A que metodología ágil pertenece el termino de Product owner?
-
+22. ¿A que metodología ágil pertenece el termino de Product owner?
 Scrum
-
 Kanban
-
 Xp(Programación extrema)
-
 No existe dicho termino
 
-15. El modelo en espiral es:
-
+23. El modelo en espiral es:
 Iterativo
-
 Adaptativo
-
 Predictivo
-
 Relativo
 
-16. Que tipos de lenguajes existen:
-
+24. Que tipos de lenguajes existen:
 Compilados e interpretados
-
 Léxico y sintáctico
-
 Ninguno de esos existe
-
 Fuente y compilados
 
-1. ¿Cuáles son los tipos de código en el  desarrollo del software?
+25. ¿Qué es un código ejecutable?
+Es un conjunto de instrucciones compiladas y enlazadas para ser ejecutadas por una computadora. Es lo que se conoce como archivos con la extensión EXE.
+Es todo texto que un ser humano puede leer y escribir en un lenguaje de programación específico. El objetivo de este código es crear normas para el ordenador. Es la base de los programas y de las páginas web.
+Es el código que se genera a partir del código fuente y que no se puede ejecutar. Es un lenguaje binario o bytecode que se usa para traducir el lenguaje de programación en instrucciones directas para el procesador.
+Ninguna de las anteriores
 
- Fuente, objeto y ejecutable
+26. ¿Cual de estas características no define a un software?
+Para su desarrollo se utiliza un lenguaje de programación de bajo nivel.
+Es un conjunto de instrucciones para el sistema informático.
+Puede modificarse.
+Se puede instalar y desinstalar todas las veces que quieras.
 
- Fuente, organizado y ejecutable
+27. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
+Identificar, gestionar y planificar el uso de recursos para alcanzar objetivos predefinidos.
+Definir el lenguaje de programación a utilizar.
+Establecer el diseño detallado de la interfaz de usuario.
+Realizar pruebas exhaustivas del software.
 
- Ejecutable, abstracto y Java
+28. ¿Cuáles son las fases principales del desarrollo de software según el texto?
+Análisis, diseño, codificación, pruebas, mantenimiento.
+Diseño, codificación, mantenimiento, verificación.
+Análisis, implementación, pruebas, validación.
+Planificación, desarrollo, entrega, postventa.
 
- C, C++ y Python
+29. ¿Cual de estos principios rigen el desarrollo ágil?
+Colaboración en lugar de negociaciones contractuales.
+Enfoque en documentación completa.
+Satisfacción de los procesos y herramientas.
+Enfoque en evitar cambios
 
-2. ¿Qué fases principales conocemos en el desarrollo del software?
+30. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
+Comunicación efectiva.
+Enfoque en documentación extensa.
+Resistencia al cambio.
+Satisfacción de la burocracia.
 
- Análisis, diseño, codificación, pruebas y mantenimiento
+31. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
+Se enfocan en especificar "qué" resultado se desea obtener, sin preocuparse por los detalles de implementación.
+Se centran en describir "cómo" se debe realizar una tarea paso a paso.
+Los programadores deben controlar explícitamente las variables y el flujo de ejecución del programa.
+Son específicos para una arquitectura de hardware particular y requieren conocimiento profundo del hardware subyacente.
 
- Análisis y experimentación
+32. ¿Cuál es una ventaja de los lenguajes interpretados?
+Permiten cambios en tiempo de ejecución y facilitan la experimentación.
+Mayor rendimiento en tiempo de ejecución.
+Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
+Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
+ 
+33. ¿Cuáles son los tipos de código en el  desarrollo del software?
+Fuente, objeto y ejecutable
+Fuente, organizado y ejecutable
+Ejecutable, abstracto y Java
+C, C++ y Python
 
- Todas son correctas
+34. ¿Qué fases principales conocemos en el desarrollo del software?
+Análisis, diseño, codificación, pruebas y mantenimiento
+Análisis y experimentación
+Todas son correctas
+Ninguna de las anteriores es correcta
 
- Ninguna de las anteriores es correcta
+35. ¿Para qué sirve un disco duro?
+Almacena de forma permanente los archivos ejecutables y los archivos de datos
+Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
+No sirve para nada
+Para guardar películas y verlas
 
-3. ¿Para qué sirve un disco duro?
-
- Almacena de forma permanente los archivos ejecutables y los archivos de datos
-
- Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
-
- No sirve para nada
-
- Para guardar películas y verlas
-
-4. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
-
+36. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
 Se escribe el código fuente del programa
-
 Se proponen opciones al  cliente para que elija la más óptima a sus necesidades
-
 Se consigue que funcione incorrectamente el programa y así descubrir los defectos
-
 Se atiende a las necesidades del cliente y se especifican los requisitos que debe cumplir el software
 
-5. Tipos de modelo de desarrollo de software
-
+36. Tipos de modelo de desarrollo de software
 Modelos clásicos, modelo de construcción de prototipos y modelos evolutivos
-
 Modelos muro, modelos circulares y modelos cuadrados
-
 Modelo en x y modelo paralelo
-
 La segunda y tercera respuesta son correctas
 
 6. Como se le denomina a la metodología Kanban
 
+=======
+37. Como se le denomina a la metodología Kanban
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Se le denomina como el sistema de tarjetas
 
 Se le denomina como el sistema pizarra
@@ -217,8 +233,12 @@ Se le denomina como el sistema sencillo
 
 Ninguna de las anteriores es correcta
 
+<<<<<<< HEAD
 7. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
 
+=======
+38. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Compilar e interpretar
 
 Analizar y programar
@@ -227,8 +247,12 @@ Revisar e interactuar
 
 Compilar y analizar
 
+<<<<<<< HEAD
 8. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
 
+=======
+39. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Bytecode
 
 Bitcoin
@@ -237,32 +261,21 @@ Bits
 
 Ball
  
-1. ¿Qué es  un código objeto?
-
+40. ¿Qué es  un código objeto?
 Es un archivo binario no ejecutable
-
 Es un archivo binario ejecutable
-
 Es un archivo de texto legible escrito en un lenguaje de programación
-
 Ninguna de las anteriores
 
-2. ¿A qué tipo de software pertenece un compilador?
-
+41. ¿A qué tipo de software pertenece un compilador?
 Software de desarrollo
-
 Software de sistema
-
 software de aplicación
-
 Todas son correctas
 
-3. ¿Cuáles son las fases principales de desarrollo de software?
-
+42. ¿Cuáles son las fases principales de desarrollo de software?
 Análisis, Diseño, Codificación, Pruebas y Mantenimiento
-
 Análisis, Diseño, Codificación, Mantenimiento, Pruebas y Mantenimiento
-
 Análisis, Diseño, Codificación, Mantenimiento y Pruebas
 
 Ninguna de las anteriores
@@ -475,6 +488,7 @@ Funcionales
 
 Algebraicos
 
+<<<<<<< HEAD
 1. Hardware que almacena de forma permanente archivos ejecutables y datos
 
 Disco Duro
@@ -556,6 +570,8 @@ Lisp
 
 SQL
 
+=======
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 1. ¿Qué función tiene una tarjeta de RAM?
 
 Almacenar de forma  temporal el códgo binario de los archivos ejecutables
@@ -716,7 +732,80 @@ Un tipo de Hardware
 
 Es el conjunto de códigos generados por un programador para dar resultado al programa final
 
-Una memoria externa
+1. ¿Qué es un código ejecutable?
+
+Es un conjunto de instrucciones compiladas y enlazadas para ser ejecutadas por una computadora. Es lo que se conoce como archivos con la extensión EXE.
+
+Es todo texto que un ser humano puede leer y escribir en un lenguaje de programación específico. El objetivo de este código es crear normas para el ordenador. Es la base de los programas y de las páginas web.
+
+Es el código que se genera a partir del código fuente y que no se puede ejecutar. Es un lenguaje binario o bytecode que se usa para traducir el lenguaje de programación en instrucciones directas para el procesador.
+
+Ninguna de las anteriores
+2. ¿Cual de estas características no define a un software?
+
+Para su desarrollo se utiliza un lenguaje de programación de bajo nivel.
+
+Es un conjunto de instrucciones para el sistema informático.
+
+Puede modificarse.
+
+Se puede instalar y desinstalar todas las veces que quieras.
+3. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
+
+Identificar, gestionar y planificar el uso de recursos para alcanzar objetivos predefinidos.
+
+Definir el lenguaje de programación a utilizar.
+
+Establecer el diseño detallado de la interfaz de usuario.
+
+Realizar pruebas exhaustivas del software.
+4. ¿Cuáles son las fases principales del desarrollo de software según el texto?
+
+Análisis, diseño, codificación, pruebas, mantenimiento.
+
+Diseño, codificación, mantenimiento, verificación.
+
+Análisis, implementación, pruebas, validación.
+
+Planificación, desarrollo, entrega, postventa.
+5. ¿Cual de estos principios rigen el desarrollo ágil?
+
+Colaboración en lugar de negociaciones contractuales.
+
+Enfoque en documentación completa.
+
+Satisfacción de los procesos y herramientas.
+
+Enfoque en evitar cambios
+6. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
+
+Comunicación efectiva.
+
+Enfoque en documentación extensa.
+
+Resistencia al cambio.
+
+Satisfacción de la burocracia.
+7. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
+
+Se enfocan en especificar "qué" resultado se desea obtener, sin preocuparse por los detalles de implementación.
+
+Se centran en describir "cómo" se debe realizar una tarea paso a paso.
+
+Los programadores deben controlar explícitamente las variables y el flujo de ejecución del programa.
+
+Son específicos para una arquitectura de hardware particular y requieren conocimiento profundo del hardware subyacente.
+8. ¿Cuál es una ventaja de los lenguajes interpretados?
+
+Permiten cambios en tiempo de ejecución y facilitan la experimentación.
+
+Mayor rendimiento en tiempo de ejecución.
+
+Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
+
+Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
+
+
 
 9. Hardware que almacena de forma permanente archivos ejecutables y datos
 
@@ -796,6 +885,88 @@ Documentación técnica y de usuario
 Informe de errores y control de cambios
 
 Especificación de módulos y funciones
+
+3. En el mantenimiento perfectivo 
+
+Se mejora la funcionalidad del programa
+
+Se corrigen defectos del programa
+
+Se añaden funcionalidades nuevas al programa
+
+Se adapta a nuevos entornos 
+
+4. Los modelos de desarrollo más obsoletos son
+
+Modelos clásicos
+
+Modelo de construcción de prototipos 
+
+Modelo evolutivo
+
+Modelo incremental
+
+5. ¿Cuál de estos lenguajes es un lenguaje compilado?
+
+C
+
+PHP
+
+Javascript
+
+Java
+
+6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
+
+Javascript
+
+C
+
+C++
+
+Java
+
+7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
+
+Java
+
+C++
+
+PHP
+
+Javascript
+
+8. ¿Que hace la CPU?
+
+Lee y ejecuta  instrucciones almacendas en memoria RAM
+
+Recoge nuevos datos desde la entrada
+
+Almacena de forma temporal el código binario de los archivos ejecutables
+
+Almacena de forma permanente los archivos ejecutables 
+
+
+1. ¿Quien desarrolla el programa en una metodología SCRUM?
+
+Team
+
+Product Owner
+
+Scrum Master 
+
+Ninguna es correcta
+
+2. El resultado de la fase de codificación es
+
+Código fuente
+
+Documentación técnica y de usuario
+
+Informe de errores y control de cambios
+
+Especificación de módulos y funciones
+
 
 3. En el mantenimiento perfectivo 
 

@@ -800,3 +800,51 @@ Asegurar que se sigue la metodología Scrum y facilitar el trabajo del equipo
 Definir los requisitos del producto y asegurarse de que se cumplan
 Realizar la codificación del software y asegurar la calidad del código
 Coordinar las pruebas y asegurar que el software funcione correctamente
+
+134. ¿Qué tipos de software existen?
+De sistema, aplicación y desarrollo
+De codificación y análisis
+De compilación e interpretación 
+Ninguno es correcto
+
+135.¿ Qué tipos de código existen?
+código fuente,código objeto y código ejecutable 
+Java, C++ y SQL
+interpretado y compilado 
+Ninguno es correcto
+
+136.¿ Cuáles son las fases de desarrollo en orden correcto?
+Análisis, diseño,codificación,pruebas, mantenimiento 
+Diseño,verficación,análisis,mantenimiento,pruebas 
+Análisis,codificación,validación, pruebas
+Ninguno es correcto
+
+137.En el mantenimento, hay que realizar cambios ocasionales ¿qué tipo de cambios pueden haber?
+adaptativo, correctivo 
+interactivo y correctivo 
+funcional y correctivo 
+Ninguno es correcto
+
+138.¿Qué clase de modelos de desarrollo existen?
+modelo clásico, modelo de construcción de prototipos, modelo evolutivo o incremental
+modelo en espiral, modelo en cascada, modelo de construccion de prototipo
+modelo ágil, evolutivo, incremental
+Ninguno es correcto
+
+139.Roles principales del Scrum
+Product Owner,Scrum Master, Team 
+Client, Team,Product Owner
+Scrum Master, backlog, Team 
+Ninguno es correcto
+
+140.¿ Cúal de los siguientes lenguajes es compilado?
+C++
+Java 
+JavaScript 
+Ninguno es correcto
+
+141.¿Qué tipo de lenguajes declarativos existen?
+Lógicos, Funcionales, Algebraicos 
+imperativos, estructurados, algebraicos 
+Funcionales, lógicos, y ensamblador 
+Ninguno es correcto

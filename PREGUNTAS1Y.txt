@@ -772,5 +772,43 @@ Requieren menos memoria y CPU durante la ejecución en comparación con los prog
 
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
 
-
-
+1. ¿Cuál de todos los softwares de sistema es el de más bajo nivel?
+Firmware
+Sistema Operativo
+Compiladores
+Controladores
+2. ¿Qué es el código objeto?
+Todas son correctas
+Archivo binario no ejecutable
+Código fuente traducido para ser legible por una máquina
+Archivo que se obtiene de un compilador
+3. ¿Cuál de estos NO es un requisito para el análisis de un sistema de software?
+Ser detallado en la explicación
+Evitar ambigüedades
+Dividir y jerarquizar el modelo
+Fijar los criterios de validación
+4. ¿Cuáles son los tipos de mantenimiento?
+Correctivo, perfectivo, preventivo, evolutivo y adaptativo
+Perfectivo, evolutivo adaptativo y correctivo
+Correctivo, preventivo, evolutivo y adaptativo
+Evolutivo, correctivo, preventivo y perfectivo
+5. ¿Cuál de estos datos sobre el modelo en cascada es falso?
+No acepta variantes
+Modelo rígido, mal adaptable al cambio
+Se debe realizar en orden
+Es el modelo de mayor antigüedad
+6. ¿Qué se valora más en las metodologías ágiles?
+Todas son correctas
+Los individuos sobre las herramientas
+La colaboración con el cliente que la negociación contractual
+Adaptarse al cambio que seguir el plan
+7. ¿Cuál de estos lenguajes de programación es compilado?
+C++
+JavaScript
+Todas son correctas
+Java
+8. ¿Qué tipos de lenguajes existen?
+Todas son correctas
+Declarativos e imperativos
+De alto nivel, medio nivel y bajo nivel
+Estructurados, orientados a objetos y multiparadigma

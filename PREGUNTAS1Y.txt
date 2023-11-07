@@ -191,22 +191,22 @@ Requieren menos memoria y CPU durante la ejecución en comparación con los prog
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
  
 33. ¿Cuáles son los tipos de código en el  desarrollo del software?
- Fuente, objeto y ejecutable
- Fuente, organizado y ejecutable
- Ejecutable, abstracto y Java
- C, C++ y Python
+Fuente, objeto y ejecutable
+Fuente, organizado y ejecutable
+Ejecutable, abstracto y Java
+C, C++ y Python
 
 34. ¿Qué fases principales conocemos en el desarrollo del software?
- Análisis, diseño, codificación, pruebas y mantenimiento
- Análisis y experimentación
- Todas son correctas
- Ninguna de las anteriores es correcta
+Análisis, diseño, codificación, pruebas y mantenimiento
+Análisis y experimentación
+Todas son correctas
+Ninguna de las anteriores es correcta
 
 35. ¿Para qué sirve un disco duro?
- Almacena de forma permanente los archivos ejecutables y los archivos de datos
- Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
- No sirve para nada
- Para guardar películas y verlas
+Almacena de forma permanente los archivos ejecutables y los archivos de datos
+Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
+No sirve para nada
+Para guardar películas y verlas
 
 36. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
 Se escribe el código fuente del programa
@@ -220,22 +220,45 @@ Modelos muro, modelos circulares y modelos cuadrados
 Modelo en x y modelo paralelo
 La segunda y tercera respuesta son correctas
 
+6. Como se le denomina a la metodología Kanban
+
+=======
 37. Como se le denomina a la metodología Kanban
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Se le denomina como el sistema de tarjetas
+
 Se le denomina como el sistema pizarra
+
 Se le denomina como el sistema sencillo
+
 Ninguna de las anteriores es correcta
 
+<<<<<<< HEAD
+7. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+
+=======
 38. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Compilar e interpretar
+
 Analizar y programar
+
 Revisar e interactuar
+
 Compilar y analizar
 
+<<<<<<< HEAD
+8. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+
+=======
 39. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 Bytecode
+
 Bitcoin
+
 Bits
+
 Ball
  
 40. ¿Qué es  un código objeto?
@@ -305,8 +328,6 @@ Es un tipo de lenguaje imperativo estructurado
 
 Es un tipo de lenguaje imperativo multiparadigma
     
-
-<<<<<<< HEAD
 1. ¿Qué es compilar?
 
 Traducir un código de programación a código ejecutable
@@ -317,7 +338,6 @@ Ejecutar el código fuente directamente
 
 Ninguna de las anteriores
 
-
 2. ¿Cuál de los siguientes lenguajes es de alto nivel?
 
 C++
@@ -327,8 +347,6 @@ Binario
 C
 
 PSOE
-
-HTML
 
 3. ¿Qué es una historia de usuario?
 
@@ -349,7 +367,6 @@ Los tiempos de entrega
 Acumulación de trabajo
 
 La Organización del trabajo
-
 
 5. ¿Qué es el código objeto?
 
@@ -391,71 +408,170 @@ Es el conjunto de códigos generados por un programador para dar resultado al pr
 
 Una memoria externa
 
+1. ¿Qué función tiene una tarjeta de RAM?
+
+Almacenar de forma  temporal el códgo binario de los archivos ejecutables
+
+Almacenar de forma permanente los archivos ejecutables  y los archivos de datos
+
+Leer y ejecutar intrucciones
+
+Recoger  datos aleatorios de tu memoria y analizarlos.
+
+2. ¿Cuál de esto codigos es un archivo de texto legible escrito en un lenguaje de programación?
+
+Código fuente
+
+Código objeto
+
+Código ejecutable
+
+Código Binario 
+
+3. ¿Cuál de las siguientes opciones no es un tipo de mantenimiento?
+
+Limpiativo
+
+Correctivo
+
+Perfectivo
+
+Evolutivo
+
+4. ¿Cuál es el orden correcto de las Fases principales de desarrollo de software?
+
+Análisis,Diseño,Codificación,Pruebas,Mantenimiento
+
+Diseño, Análisis, Codificicación,Pruebas,Mantenimiento
+
+Pruebas,Análisis,Diseño, Codificación, Mantenimiento
+
+Mantenimiento,Analisis,Codificación,Extracción
+
+5. ¿Cual de las siguientes opciones no es un modelo de sofware?
+
+Modelo en Y
+
+Modelo en cascada
+
+Modelo V
+
+Modelo en espiral
+
+6. ¿Cuál de estas opciones  es un concepto del método SCRUM?
+
+Todas son correctas
+
+Es un modelo de desarrollo incremental
+
+Iteraciones (sprint) regulares cada 2 a 4 semanas
+
+Al finalizar cada iteración se obtiene una entrega parcial utilizable por el cliente
+
+7. ¿Cuál de estas opciones es un lenguaje compilado?
+
+C++
+
+PHP
+
+Javascript
+
+Python
+
+8. ¿Cuál de estas opciones no es un tipo de lenguaje declarativo?
+
+Analógicos
+
+Lógicos
+
+Funcionales
+
+Algebraicos
+
+<<<<<<< HEAD
+1. Hardware que almacena de forma permanente archivos ejecutables y datos
+
+Disco Duro
+
+Memoria
+
+RAM
+
+CPU
+
+2. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
+
+RAM
+
+CPU
+
+Disco Duro
+
+Memoria
+
+3. Una de las fases principales del desarrollo de software son
+
+Todas son correctas
+
+Codificacion
+
+Mantenimiento
+
+Diseño
+
+4. Se considera lenguaje de programacion
+
+Java
+
+HTML
+
+XML
+
+Scrum
+
+5. Que modelo de desarrollo es el menos eficaz
+
+Modelo en cascada
+
+Modelo en V
+
+Modelo en espiral
+
+Ninguno se utiliza actualmente
+
+6. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
+	y que motiva y facilita el trabajo en equipo?
+
+Scrum master
+
+Team
+
+Jefe
+
+Product owner
+
+7. Cual es el critero para la seleccion de un lenguaje a la hora de escribir un software
+
+todas son correctas
+
+Base de usuarios
+
+Herramientas de desarrollo
+
+Campo de aplicacion
+
+8. Un ejemplo de un lenguaje de programacion de alto nivel es
+
+Java
+
+Html
+
+Lisp
+
+SQL
+
 =======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+>>>>>>> fc4da5b9e01fe4d55179e584092341eb2937aef1
 1. ¿Qué función tiene una tarjeta de RAM?
 
 Almacenar de forma  temporal el códgo binario de los archivos ejecutables
@@ -535,87 +651,6 @@ Lógicos
 Funcionales
 
 Algebraicos
-
-1. ¿Qué función tiene una tarjeta de RAM?
-
-Almacenar de forma  temporal el códgo binario de los archivos ejecutables
-
-Almacenar de forma permanente los archivos ejecutables  y los archivos de datos
-
-Leer y ejecutar intrucciones
-
-Recoger  datos aleatorios de tu memoria y analizarlos.
-
-2. ¿Cuál de esto codigos es un archivo de texto legible escrito en un lenguaje de programación?
-
-Código fuente
-
-Código objeto
-
-Código ejecutable
-
-Código Binario 
-
-3. ¿Cuál de las siguientes opciones no es un tipo de mantenimiento?
-
-Limpiativo
-
-Correctivo
-
-Perfectivo
-
-Evolutivo
-
-4. ¿Cuál es el orden correcto de las Fases principales de desarrollo de software?
-
-Análisis,Diseño,Codificación,Pruebas,Mantenimiento
-
-Diseño, Análisis, Codificicación,Pruebas,Mantenimiento
-
-Pruebas,Análisis,Diseño, Codificación, Mantenimiento
-
-Mantenimiento,Analisis,Codificación,Extracción
-
-5. ¿Cual de las siguientes opciones no es un modelo de sofware?
-
-Modelo en Y
-
-Modelo en cascada
-
-Modelo V
-
-Modelo en espiral
-
-6. ¿Cuál de estas opciones  es un concepto del método SCRUM?
-
-Todas son correctas
-
-Es un modelo de desarrollo incremental
-
-Iteraciones (sprint) regulares cada 2 a 4 semanas
-
-Al finalizar cada iteración se obtiene una entrega parcial utilizable por el cliente
-
-7. ¿Cuál de estas opciones es un lenguaje compilado?
-
-C++
-
-PHP
-
-Javascript
-
-Python
-
-8. ¿Cuál de estas opciones no es un tipo de lenguaje declarativo?
-
-Analógicos
-
-Lógicos
-
-Funcionales
-
-Algebraicos
->>>>>>> d20120e734a0c88b6c0f0e0252f7ae4cb8dc4175
 
 1. ¿Qué es compilar?
 
@@ -626,7 +661,6 @@ Reunir en un solo archivo
 Ejecutar el código fuente directamente
 
 Ninguna de las anteriores
-
 
 2. ¿Cuál de los siguientes lenguajes es de alto nivel?
 
@@ -659,7 +693,6 @@ Los tiempos de entrega
 Acumulación de trabajo
 
 La Organización del trabajo
-
 
 5. ¿Qué es el código objeto?
 
@@ -772,6 +805,7 @@ Requieren menos memoria y CPU durante la ejecución en comparación con los prog
 
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
 
+
 1. ¿Cuál de todos los softwares de sistema es el de más bajo nivel?
 Firmware
 Sistema Operativo
@@ -812,3 +846,227 @@ Todas son correctas
 Declarativos e imperativos
 De alto nivel, medio nivel y bajo nivel
 Estructurados, orientados a objetos y multiparadigma
+
+
+
+9. Hardware que almacena de forma permanente archivos ejecutables y datos
+
+Disco Duro
+
+Memoria
+
+RAM
+
+CPU
+
+10. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
+
+RAM
+
+CPU
+
+Disco Duro
+
+Memoria
+
+11. Una de las fases principales del desarrollo de software son
+
+Todas son correctas
+
+Codificacion
+
+Mantenimiento
+
+Diseño
+
+12. Se considera lenguaje de programacion
+
+Java
+
+HTML
+
+XML
+
+Scrum
+
+13. Que modelo de desarrollo es el menos eficaz
+
+Modelo en cascada
+
+Modelo en V
+
+Modelo en espiral
+
+Ninguno se utiliza actualmente
+
+14. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
+	y que motiva y facilita el trabajo en equipo?
+
+Scrum master
+
+Team
+
+Jefe
+
+1. ¿Quien desarrolla el programa en una metodología SCRUM?
+
+Team
+
+Product Owner
+
+Scrum Master 
+
+Ninguna es correcta
+
+2. El resultado de la fase de codificación es
+
+Código fuente
+
+Documentación técnica y de usuario
+
+Informe de errores y control de cambios
+
+Especificación de módulos y funciones
+
+3. En el mantenimiento perfectivo 
+
+Se mejora la funcionalidad del programa
+
+Se corrigen defectos del programa
+
+Se añaden funcionalidades nuevas al programa
+
+Se adapta a nuevos entornos 
+
+4. Los modelos de desarrollo más obsoletos son
+
+Modelos clásicos
+
+Modelo de construcción de prototipos 
+
+Modelo evolutivo
+
+Modelo incremental
+
+5. ¿Cuál de estos lenguajes es un lenguaje compilado?
+
+C
+
+PHP
+
+Javascript
+
+Java
+
+6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
+
+Javascript
+
+C
+
+C++
+
+Java
+
+7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
+
+Java
+
+C++
+
+PHP
+
+Javascript
+
+8. ¿Que hace la CPU?
+
+Lee y ejecuta  instrucciones almacendas en memoria RAM
+
+Recoge nuevos datos desde la entrada
+
+Almacena de forma temporal el código binario de los archivos ejecutables
+
+Almacena de forma permanente los archivos ejecutables 
+
+
+1. ¿Quien desarrolla el programa en una metodología SCRUM?
+
+Team
+
+Product Owner
+
+Scrum Master 
+
+Ninguna es correcta
+
+2. El resultado de la fase de codificación es
+
+Código fuente
+
+Documentación técnica y de usuario
+
+Informe de errores y control de cambios
+
+Especificación de módulos y funciones
+
+
+3. En el mantenimiento perfectivo 
+
+Se mejora la funcionalidad del programa
+
+Se corrigen defectos del programa
+
+Se añaden funcionalidades nuevas al programa
+
+Se adapta a nuevos entornos 
+
+4. Los modelos de desarrollo más obsoletos son
+
+Modelos clásicos
+
+Modelo de construcción de prototipos 
+
+Modelo evolutivo
+
+Modelo incremental
+
+5. ¿Cuál de estos lenguajes es un lenguaje compilado?
+
+C
+
+PHP
+
+Javascript
+
+Java
+
+6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
+
+Javascript
+
+C
+
+C++
+
+Java
+
+7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
+
+Java
+
+C++
+
+PHP
+
+Javascript
+
+8. ¿Que hace la CPU?
+
+Lee y ejecuta  instrucciones almacendas en memoria RAM
+
+Recoge nuevos datos desde la entrada
+
+Almacena de forma temporal el código binario de los archivos ejecutables
+
+Almacena de forma permanente los archivos ejecutables 
+

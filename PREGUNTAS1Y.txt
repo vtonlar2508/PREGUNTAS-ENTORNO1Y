@@ -473,473 +473,330 @@ La parte blanda del ordenador
 Es el programa que permite la construcción y el diseño de otros programas informáticos
 Son los programas que no afectan al funcionamiento del ordenador
 
-80.¿Que es el firmware?
-
+79.¿Que es el firmware?
 Es el programa básico que controla los circuitos electronicos de cada dispositivo, siempre esta integrado a la electrónica
-
 Un tipo de Hardware
-
 Es el conjunto de códigos generados por un programador para dar resultado al programa final
 
-1. ¿Qué es un código ejecutable?
-
+80. ¿Qué es un código ejecutable?
 Es un conjunto de instrucciones compiladas y enlazadas para ser ejecutadas por una computadora. Es lo que se conoce como archivos con la extensión EXE.
-
 Es todo texto que un ser humano puede leer y escribir en un lenguaje de programación específico. El objetivo de este código es crear normas para el ordenador. Es la base de los programas y de las páginas web.
-
 Es el código que se genera a partir del código fuente y que no se puede ejecutar. Es un lenguaje binario o bytecode que se usa para traducir el lenguaje de programación en instrucciones directas para el procesador.
-
 Ninguna de las anteriores
-2. ¿Cual de estas características no define a un software?
 
+81. ¿Cual de estas características no define a un software?
 Para su desarrollo se utiliza un lenguaje de programación de bajo nivel.
-
 Es un conjunto de instrucciones para el sistema informático.
-
 Puede modificarse.
-
 Se puede instalar y desinstalar todas las veces que quieras.
-3. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
 
+82. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
 Identificar, gestionar y planificar el uso de recursos para alcanzar objetivos predefinidos.
-
 Definir el lenguaje de programación a utilizar.
-
 Establecer el diseño detallado de la interfaz de usuario.
-
 Realizar pruebas exhaustivas del software.
-4. ¿Cuáles son las fases principales del desarrollo de software según el texto?
 
+83. ¿Cuáles son las fases principales del desarrollo de software según el texto?
 Análisis, diseño, codificación, pruebas, mantenimiento.
-
 Diseño, codificación, mantenimiento, verificación.
-
 Análisis, implementación, pruebas, validación.
-
 Planificación, desarrollo, entrega, postventa.
-5. ¿Cual de estos principios rigen el desarrollo ágil?
 
+84. ¿Cual de estos principios rigen el desarrollo ágil?
 Colaboración en lugar de negociaciones contractuales.
-
 Enfoque en documentación completa.
-
 Satisfacción de los procesos y herramientas.
-
 Enfoque en evitar cambios
-6. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
 
+85. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
 Comunicación efectiva.
-
 Enfoque en documentación extensa.
-
 Resistencia al cambio.
-
 Satisfacción de la burocracia.
-7. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
 
+86. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
 Se enfocan en especificar "qué" resultado se desea obtener, sin preocuparse por los detalles de implementación.
-
 Se centran en describir "cómo" se debe realizar una tarea paso a paso.
-
 Los programadores deben controlar explícitamente las variables y el flujo de ejecución del programa.
-
 Son específicos para una arquitectura de hardware particular y requieren conocimiento profundo del hardware subyacente.
-8. ¿Cuál es una ventaja de los lenguajes interpretados?
 
+87. ¿Cuál es una ventaja de los lenguajes interpretados?
 Permiten cambios en tiempo de ejecución y facilitan la experimentación.
-
 Mayor rendimiento en tiempo de ejecución.
-
 Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
-
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
 
-9. Hardware que almacena de forma permanente archivos ejecutables y datos
-
+88. Hardware que almacena de forma permanente archivos ejecutables y datos
 Disco Duro
-
 Memoria
-
 RAM
-
 CPU
 
-10. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
-
+89. Hardware que almacena de forma temporal el codigo binario de archivos ejecutables
 RAM
-
 CPU
-
 Disco Duro
-
 Memoria
 
-11. Una de las fases principales del desarrollo de software son
-
+90. Una de las fases principales del desarrollo de software son
 Todas son correctas
-
 Codificacion
-
 Mantenimiento
-
 Diseño
 
-12. Se considera lenguaje de programacion
-
+91. Se considera lenguaje de programacion
 Java
-
 HTML
-
 XML
-
 Scrum
 
-13. Que modelo de desarrollo es el menos eficaz
-
+92. Que modelo de desarrollo es el menos eficaz
 Modelo en cascada
-
 Modelo en V
-
 Modelo en espiral
-
 Ninguno se utiliza actualmente
 
-14. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
-	y que motiva y facilita el trabajo en equipo?
-
+93. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum y que motiva y facilita el trabajo en equipo?
 Scrum master
-
 Team
-
 Jefe
 
-1. ¿Quien desarrolla el programa en una metodología SCRUM?
-
+94. ¿Quien desarrolla el programa en una metodología SCRUM?
 Team
-
 Product Owner
-
 Scrum Master 
-
 Ninguna es correcta
 
-2. El resultado de la fase de codificación es
-
+95. El resultado de la fase de codificación es
 Código fuente
-
 Documentación técnica y de usuario
-
 Informe de errores y control de cambios
-
 Especificación de módulos y funciones
 
-3. En el mantenimiento perfectivo 
-
+96. En el mantenimiento perfectivo 
 Se mejora la funcionalidad del programa
-
 Se corrigen defectos del programa
-
 Se añaden funcionalidades nuevas al programa
-
 Se adapta a nuevos entornos 
 
-4. Los modelos de desarrollo más obsoletos son
-
+97. Los modelos de desarrollo más obsoletos son
 Modelos clásicos
-
 Modelo de construcción de prototipos 
-
 Modelo evolutivo
-
 Modelo incremental
 
-5. ¿Cuál de estos lenguajes es un lenguaje compilado?
-
+98. ¿Cuál de estos lenguajes es un lenguaje compilado?
 C
-
 PHP
-
 Javascript
-
 Java
 
-6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
-
+99. ¿Cuál de estos lenguajes es un lenguaje interpretado?
 Javascript
-
 C
-
 C++
-
 Java
 
-7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
-
+100. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
 Java
-
 C++
-
 PHP
-
 Javascript
 
-8. ¿Que hace la CPU?
-
+101. ¿Que hace la CPU?
 Lee y ejecuta  instrucciones almacendas en memoria RAM
-
 Recoge nuevos datos desde la entrada
-
 Almacena de forma temporal el código binario de los archivos ejecutables
-
 Almacena de forma permanente los archivos ejecutables 
 
-
-1. ¿Quien desarrolla el programa en una metodología SCRUM?
-
+102. ¿Quien desarrolla el programa en una metodología SCRUM?
 Team
-
 Product Owner
-
 Scrum Master 
-
 Ninguna es correcta
 
-2. El resultado de la fase de codificación es
-
+103. El resultado de la fase de codificación es
 Código fuente
-
 Documentación técnica y de usuario
-
 Informe de errores y control de cambios
-
 Especificación de módulos y funciones
 
-
-3. En el mantenimiento perfectivo 
-
+104. En el mantenimiento perfectivo 
 Se mejora la funcionalidad del programa
-
 Se corrigen defectos del programa
-
 Se añaden funcionalidades nuevas al programa
-
 Se adapta a nuevos entornos 
 
-4. Los modelos de desarrollo más obsoletos son
-
+105. Los modelos de desarrollo más obsoletos son
 Modelos clásicos
-
 Modelo de construcción de prototipos 
-
 Modelo evolutivo
-
 Modelo incremental
 
-5. ¿Cuál de estos lenguajes es un lenguaje compilado?
-
+106. ¿Cuál de estos lenguajes es un lenguaje compilado?
 C
-
 PHP
-
 Javascript
-
 Java
 
-6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
-
+107. ¿Cuál de estos lenguajes es un lenguaje interpretado?
 Javascript
-
 C
-
 C++
-
 Java
 
-7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
-
+108. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
 Java
-
 C++
-
 PHP
-
 Javascript
 
-8. ¿Que hace la CPU?
-
+109. ¿Que hace la CPU?
 Lee y ejecuta  instrucciones almacendas en memoria RAM
-
 Recoge nuevos datos desde la entrada
-
 Almacena de forma temporal el código binario de los archivos ejecutables
-
 Almacena de forma permanente los archivos ejecutables 
 
-1. El código objeto generado por Java se denomina:
-
+110. El código objeto generado por Java se denomina:
 Bytecode
-
 Código fuente
-
 Código objeto
-
 Código ejecutable
 
-2. Los drivers se localiza en el software de:
-
+111. Los drivers se localiza en el software de:
 Sistema
-
 Aplicación
-
 Desarrollo
-
 Ninguna de las anteriores
 
-3. Las fases principales del desarrollo de software son:
-
+112. Las fases principales del desarrollo de software son:
 Análisis, Diseño, Codificación, Pruebas, Mantenimiento
-
 Diseño, Análisis, Codificación, Mantenimiento
-
 Diseño, Codificación, Análisis, Pruebas
-
 Diseño, Codificación, Pruebas, Análisis, Mantenimiento
 
-4. ¿En qué fases del desarrollo es común el uso de los mockup?
-
+113. ¿En qué fases del desarrollo es común el uso de los mockup?
 Diseño
-
 Codificación
-
 Análisis
-
 Mantenimiento
 
-5. Las metodologías ágiles más destacadas son:
-
+114. Las metodologías ágiles más destacadas son:
 Kanban, Scrum y XP
-
 Scrum, XP y Modelo en cascada
-
 Modelo en espiral, Kanban y Scrum
-
 XP, Scrum y Modelo de prototipos
 
-6. ¿A qué metodología pertence el rol de "Product Owner"?
-
+115. ¿A qué metodología pertence el rol de "Product Owner"?
 Scrum
-
 Kanban
-
 XP
-
 Modelo en espiral
 
-7. ¿Cuál de estas ventajas es típica de los lenguajes compilados?
-
+116. ¿Cuál de estas ventajas es típica de los lenguajes compilados?
 Ejecución muy eficiente
-
 El código fuente se interpreta directamente
-
 Ciclo de desarrollo más rápido
-
 Necesita un programa externo para ser ejecutado
 
-8. ¿Cuál de estos se lenguajes se considera de bajo nivel?
-
+117. ¿Cuál de estos se lenguajes se considera de bajo nivel?
 Ensamblador
-
 C
-
 PHP
+Java
 
-Javaç
-
-
-1. ¿Qué es un código fuente en programación?
-
+118. ¿Qué es un código fuente en programación?
 Archivo de texto legible escrito en un lenguaje de programación.
-
 Archivo binario no ejecutable.
-
 Archivo binario ejecutable.
-	
 Archivo de especificaciones del cliente.
 
-
-2. ¿Cuáles son las fases principales en el desarrollo de software?
-
+119. ¿Cuáles son las fases principales en el desarrollo de software?
 Análisis, Diseño, Codificación, Pruebas, Mantenimiento.
-
 Compilación, Interpretación, Ejecución, Documentación.
-
 Almacenamiento, Procesamiento, Visualización, Mantenimiento.
-
 Control, Validación, Verificación, Implementación.
 
-
-3. ¿Cuál es la principal diferencia entre los lenguajes compilados y los lenguajes interpretados?
-
+120. ¿Cuál es la principal diferencia entre los lenguajes compilados y los lenguajes interpretados?
 Los lenguajes compilados se convierten directamente en código binario, mientras que los interpretados se ejecutan línea por línea.
-
 Los lenguajes interpretados son más eficientes que los compilados.
-
 Los lenguajes interpretados requieren menos recursos de hardware que los compilados.
-
 Los lenguajes compilados no pueden ser modificados una vez compilados, mientras que los interpretados pueden ser editados en cualquier momento.
 
-
-4. ¿Cuál es la disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software?
-
+121. ¿Cuál es la disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software?
 Ingeniería del software.
-
 Programación informática.
-
 Desarrollo de aplicaciones.
-
 Control de calidad de software.
 
-
-5. ¿Cuál es el principal enfoque de las metodologías ágiles en el desarrollo de software?
-
+122. ¿Cuál es el principal enfoque de las metodologías ágiles en el desarrollo de software?
 Desarrollo iterativo e incremental según las necesidades del proyecto.
-
 Planificación detallada y rigurosa desde el inicio del proyecto.
-
 Desarrollo secuencial basado en fases predeterminadas.
-
 Implementación de cambios ocasionales durante la fase de mantenimiento.
 
-
-6. ¿Cuál es el modelo de desarrollo que identifica las fases principales del desarrollo de software y requiere que se realicen en un orden específico?
-
+123. ¿Cuál es el modelo de desarrollo que identifica las fases principales del desarrollo de software y requiere que se realicen en un orden específico?
 Modelo en cascada.
-
 Modelo en V.
-
 Modelo en espiral.
-
 Modelo ágil.
 
-
-7. ¿Qué tipo de mantenimiento de software implica la corrección de defectos en el sistema?
-
+124. ¿Qué tipo de mantenimiento de software implica la corrección de defectos en el sistema?
 Correctivo.
-
 Perfectivo.
-
 Evolutivo.
-
 Adaptativo.
 
-
-8. ¿Cuál es la relación entre el disco duro y el software en un sistema informático?
-
+125. ¿Cuál es la relación entre el disco duro y el software en un sistema informático?
 Almacena de forma permanente los archivos ejecutables y de datos.
-
 Lee y ejecuta instrucciones almacenadas en memoria RAM.
-
 Recoge nuevos datos desde la entrada y muestra los resultados.
-
 Controla la fabricación de productos en la cantidad y tiempo necesarios.
 
+126. ¿Cuál es la relación principal entre la memoria RAM y el software en un sistema informático? 
+Almacena de forma temporal el código binario de los archivos ejecutables y de datos necesarios
+Controla la fabricación de productos en la cantidad y tiempo necesarios
+Recoge nuevos datos desde la entrada y muestra los resultados
+Almacena de forma permanente los archivos ejecutables y de datos
+
+127. ¿Qué tipo de mantenimiento de software implica la corrección de defectos en el sistema? 
+Correctivo
+Perfectivo
+Evolutivo
+Adaptativo
+
+128. ¿Cuál es el primer paso del ciclo de vida del software según el modelo en cascada?
+Análisis
+Diseño
+Codificación
+Pruebas
+
+129. ¿Cuál es el principal objetivo de las pruebas de software durante el proceso de desarrollo? 
+Encontrar la mayor cantidad de defectos posibles 
+Verificar que el software funcione de acuerdo con los requisitos 
+Asegurar que el software se desarrolla de manera rápida
+Evaluar la documentación técnica y de usuario
+
+130.¿Cuál es la relación entre la CPU y el software en un sistema informático? 
+Lee y ejecuta instrucciones almacenadas en memoria RAM
+Controla la fabricación de productos en la cantidad y tiempo necesarios
+Almacena de forma temporal el código binario de los archivos ejecutables y de datos necesarios
+Recoge nuevos datos desde la entrada y muestra los resultados
+
+131.¿Cuál es la relación principal entre los periféricos de E/S y el software en un sistema informático?
+Recogen nuevos datos desde la entrada y muestran los resultados
+Almacenan de forma permanente los archivos ejecutables y de datos
+Controlan la fabricación de productos en la cantidad y tiempo necesarios
+Leen y ejecutan instrucciones almacenadas en memoria RAM
+
+132. ¿Qué etapa del ciclo de vida del software se enfoca en especificar los requisitos que debe cumplir el software a desarrollar? 
+Análisis
+Diseño
+Codificación
+Mantenimiento
+
+133. ¿Cuál es el papel del Scrum Master en la metodología Scrum?
+Asegurar que se sigue la metodología Scrum y facilitar el trabajo del equipo 
+Definir los requisitos del producto y asegurarse de que se cumplan
+Realizar la codificación del software y asegurar la calidad del código
+Coordinar las pruebas y asegurar que el software funcione correctamente

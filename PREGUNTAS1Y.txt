@@ -118,7 +118,7 @@ Evolutivo
 
 Adaptativo
 
-5. En el modelo de desarrollo en cascada:
+13. En el modelo de desarrollo en cascada:
 
 No se puede llevar a cabo una tarea sin haber terminado la anterior
 
@@ -127,7 +127,7 @@ Se pueden llevar a cabo tareas de manera simultanea
 Se puede cambiar el orden de las etapas de desarrollo
 Todas son incorrectas
 
-6. ¿A que metodología ágil pertenece el termino de Product owner?
+14. ¿A que metodología ágil pertenece el termino de Product owner?
 
 Scrum
 
@@ -137,8 +137,7 @@ Xp(Programación extrema)
 
 No existe dicho termino
 
-
-7. El modelo en espiral es:
+15. El modelo en espiral es:
 
 Iterativo
 
@@ -148,7 +147,7 @@ Predictivo
 
 Relativo
 
-8. Que tipos de lenguajes existen:
+16. Que tipos de lenguajes existen:
 
 Compilados e interpretados
 
@@ -159,51 +158,83 @@ Ninguno de esos existe
 Fuente y compilados
 
 1. ¿Cuáles son los tipos de código en el  desarrollo del software?
+
  Fuente, objeto y ejecutable
+
  Fuente, organizado y ejecutable
+
  Ejecutable, abstracto y Java
+
  C, C++ y Python
 
 2. ¿Qué fases principales conocemos en el desarrollo del software?
+
  Análisis, diseño, codificación, pruebas y mantenimiento
+
  Análisis y experimentación
+
  Todas son correctas
+
  Ninguna de las anteriores es correcta
 
 3. ¿Para qué sirve un disco duro?
+
  Almacena de forma permanente los archivos ejecutables y los archivos de datos
+
  Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
+
  No sirve para nada
+
  Para guardar películas y verlas
 
 4. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
+
 Se escribe el código fuente del programa
+
 Se proponen opciones al  cliente para que elija la más óptima a sus necesidades
+
 Se consigue que funcione incorrectamente el programa y así descubrir los defectos
+
 Se atiende a las necesidades del cliente y se especifican los requisitos que debe cumplir el software
 
 5. Tipos de modelo de desarrollo de software
+
 Modelos clásicos, modelo de construcción de prototipos y modelos evolutivos
+
 Modelos muro, modelos circulares y modelos cuadrados
+
 Modelo en x y modelo paralelo
+
 La segunda y tercera respuesta son correctas
 
 6. Como se le denomina a la metodología Kanban
+
 Se le denomina como el sistema de tarjetas
+
 Se le denomina como el sistema pizarra
+
 Se le denomina como el sistema sencillo
+
 Ninguna de las anteriores es correcta
 
 7. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+
 Compilar e interpretar
+
 Analizar y programar
+
 Revisar e interactuar
+
 Compilar y analizar
 
 8. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+
 Bytecode
+
 Bitcoin
+
 Bits
+
 Ball
  
 1. ¿Qué es  un código objeto?
@@ -284,8 +315,6 @@ Es un tipo de lenguaje imperativo estructurado
 
 Es un tipo de lenguaje imperativo multiparadigma
     
-
-<<<<<<< HEAD
 1. ¿Qué es compilar?
 
 Traducir un código de programación a código ejecutable
@@ -296,7 +325,6 @@ Ejecutar el código fuente directamente
 
 Ninguna de las anteriores
 
-
 2. ¿Cuál de los siguientes lenguajes es de alto nivel?
 
 C++
@@ -306,8 +334,6 @@ Binario
 C
 
 PSOE
-
-HTML
 
 3. ¿Qué es una historia de usuario?
 
@@ -328,7 +354,6 @@ Los tiempos de entrega
 Acumulación de trabajo
 
 La Organización del trabajo
-
 
 5. ¿Qué es el código objeto?
 
@@ -370,71 +395,6 @@ Es el conjunto de códigos generados por un programador para dar resultado al pr
 
 Una memoria externa
 
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 1. ¿Qué función tiene una tarjeta de RAM?
 
 Almacenar de forma  temporal el códgo binario de los archivos ejecutables
@@ -514,8 +474,6 @@ Lógicos
 Funcionales
 
 Algebraicos
-
-
 
 1. Hardware que almacena de forma permanente archivos ejecutables y datos
 
@@ -537,7 +495,6 @@ Disco Duro
 
 Memoria
 
-
 3. Una de las fases principales del desarrollo de software son
 
 Todas son correctas
@@ -547,7 +504,6 @@ Codificacion
 Mantenimiento
 
 Diseño
-
 
 4. Se considera lenguaje de programacion
 
@@ -559,7 +515,6 @@ XML
 
 Scrum
 
-
 5. Que modelo de desarrollo es el menos eficaz
 
 Modelo en cascada
@@ -569,7 +524,6 @@ Modelo en V
 Modelo en espiral
 
 Ninguno se utiliza actualmente
-
 
 6. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
 	y que motiva y facilita el trabajo en equipo?
@@ -582,7 +536,6 @@ Jefe
 
 Product owner
 
-
 7. Cual es el critero para la seleccion de un lenguaje a la hora de escribir un software
 
 todas son correctas
@@ -593,7 +546,6 @@ Herramientas de desarrollo
 
 Campo de aplicacion
 
-
 8. Un ejemplo de un lenguaje de programacion de alto nivel es
 
 Java
@@ -603,169 +555,6 @@ Html
 Lisp
 
 SQL
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1. ¿Qué función tiene una tarjeta de RAM?
 
@@ -846,7 +635,6 @@ Lógicos
 Funcionales
 
 Algebraicos
->>>>>>> d20120e734a0c88b6c0f0e0252f7ae4cb8dc4175
 
 1. ¿Qué es compilar?
 
@@ -857,7 +645,6 @@ Reunir en un solo archivo
 Ejecutar el código fuente directamente
 
 Ninguna de las anteriores
-
 
 2. ¿Cuál de los siguientes lenguajes es de alto nivel?
 
@@ -890,7 +677,6 @@ Los tiempos de entrega
 Acumulación de trabajo
 
 La Organización del trabajo
-
 
 5. ¿Qué es el código objeto?
 
@@ -952,7 +738,6 @@ Disco Duro
 
 Memoria
 
-
 11. Una de las fases principales del desarrollo de software son
 
 Todas son correctas
@@ -962,7 +747,6 @@ Codificacion
 Mantenimiento
 
 Diseño
-
 
 12. Se considera lenguaje de programacion
 
@@ -974,7 +758,6 @@ XML
 
 Scrum
 
-
 13. Que modelo de desarrollo es el menos eficaz
 
 Modelo en cascada
@@ -985,7 +768,6 @@ Modelo en espiral
 
 Ninguno se utiliza actualmente
 
-
 14. En la metodologia scrum, como se llama la persona que se emplea de que se siga la metodologia scrum 
 	y que motiva y facilita el trabajo en equipo?
 
@@ -994,3 +776,83 @@ Scrum master
 Team
 
 Jefe
+
+1. ¿Quien desarrolla el programa en una metodología SCRUM?
+
+Team
+
+Product Owner
+
+Scrum Master 
+
+Ninguna es correcta
+
+2. El resultado de la fase de codificación es
+
+Código fuente
+
+Documentación técnica y de usuario
+
+Informe de errores y control de cambios
+
+Especificación de módulos y funciones
+
+3. En el mantenimiento perfectivo 
+
+Se mejora la funcionalidad del programa
+
+Se corrigen defectos del programa
+
+Se añaden funcionalidades nuevas al programa
+
+Se adapta a nuevos entornos 
+
+4. Los modelos de desarrollo más obsoletos son
+
+Modelos clásicos
+
+Modelo de construcción de prototipos 
+
+Modelo evolutivo
+
+Modelo incremental
+
+5. ¿Cuál de estos lenguajes es un lenguaje compilado?
+
+C
+
+PHP
+
+Javascript
+
+Java
+
+6. ¿Cuál de estos lenguajes es un lenguaje interpretado?
+
+Javascript
+
+C
+
+C++
+
+Java
+
+7. ¿Cuál de estos lenguajes es un lenguaje compilado e interpretado?
+
+Java
+
+C++
+
+PHP
+
+Javascript
+
+8. ¿Que hace la CPU?
+
+Lee y ejecuta  instrucciones almacendas en memoria RAM
+
+Recoge nuevos datos desde la entrada
+
+Almacena de forma temporal el código binario de los archivos ejecutables
+
+Almacena de forma permanente los archivos ejecutables 

@@ -1,3 +1,51 @@
+1. El firmware es un...
+software de sistema
+software de desarrollo
+software de aplicación
+hardware
+
+2. La CPU lee y ejecuta...
+instrucciones en código binario almacenadas en la RAM
+instrucciones en código fuente almacenadas en la RAM
+instrucciones en código binario almacenadas en el disco duro
+instrucciones en código fuente almacenadas en el disco duro
+
+3. ¿Cuál de estos no es un lenguaje de programación?
+XML
+C++
+Java
+JavaScript
+
+4. ¿Qué se hace en el mantenimiento correctivo?
+Corregir la funcionalidad
+Perfeccionar la funcionalidad
+Corregir la documentación
+Corregir el Backlog
+
+5. ¿Cuáles de las siguientes metodologías NO es ágil?
+En cascada
+Scrum
+Kanban
+Ninguna es ágil
+
+6. ¿Cuál de estas metodologías tiene roles?
+Scrum
+XP
+En cascada
+Todas las metodologías ágiles tienen roles
+
+7. Selecciona la verdadera
+Todas son verdaderas
+El lenguaje compilado es más rápido
+El lenguaje interpretado ofrece más facilidades al desarrollador
+Hay lenguajes que son a la vez compilados e interpretados
+
+8. El código ejectuable es...
+binario
+portable
+compilable
+interpretable
+
 1. ¿Qué es el software de sistema operativo?
 Sistema operativo y controladores
 Suite ofimática, navegador, y otras aplicaciones
@@ -23,152 +71,95 @@ Especificar la funcionalidad de los elementos componentes
 Todas son correctas
 
 5. ¿Cómo se jerarquizan los niveles en el modelo de desarrollo en V?
-
 Los niveles superiores indican mayor nivel de abstracción y los inferiores mayor nivel de detalle
-
 Los niveles superiores indican un mayo nivel de detalle y los inferiores mayor nivel de abstracción
-
 No hay niveles de jerarquización en el modelo de desarrollo en V
-
 Los niveles inferiores tienen menos importancia que los superiores
 
 6. ¿Cómo se llaman los diferentes tipos de modelos de construcción de prototipos?
-
 Rápidos y evolutivos
-
 Espiral y bucle
-
 Rápidos y digitales
-
 Ninguna de las anteriores es correcta
 
 7. ¿Cuales son ventajas del código escrito en lenguaje JAVA?
-
 Es estructurado, orientado a objetos, es sencillo añadir nuevas funciones, y gran control sobre el 
-
 Es universal, estable, y otorga un gran control sobre el
-
 Es eficiente al ser universal, y muy estable
-
 Ninguna de las respuestas anteriores es correcta
 
 8. ¿Qué tipos de lenguajes declarativos existen?
-
 Lógicos, funcionales y algebraicos
-
 Lógicos, pertinentes y matemáticos
-
 Multiparadigma, lógicos y estructurados
-
 Declarativos e  imperativos
 
 9. ¿Que tipo de software son los drivers?
-
 Software de sistema
-
 Software de aplicación
-
 Software de desarrollo
-
 Esta segmentado de estos tipos
 
 10. ¿Qué tipos de código existen?
-
 Ejecutable,objeto y fuente
-
 Fuente, aplicación y desarrollo
-
 Interpretado y compilado
-
 Ninguna de las anteriores
 
 11. ¿Cuales son las etapas del desarrollo de software?
-
 Análisis, diseño, codificación, pruebas y mantenimiento
-
 Análisis, especificación, codificación, pruebas y mantenimiento
-
 Análisis, diseño, implementación, pruebas y mantenimiento
-
 Análisis, diseño, codificación, control y mantenimiento
 
 12. ¿En que tipo de mantenimiento se corrigen defectos?
-
 Correctivo
-
 Perfectivo
-
 Evolutivo
-
 Adaptativo
 
 5. En el modelo de desarrollo en cascada:
-
 No se puede llevar a cabo una tarea sin haber terminado la anterior
-
 Se pueden llevar a cabo tareas de manera simultanea
-
 Se puede cambiar el orden de las etapas de desarrollo
 Todas son incorrectas
 
 6. ¿A que metodología ágil pertenece el termino de Product owner?
-
 Scrum
-
 Kanban
-
 Xp(Programación extrema)
-
 No existe dicho termino
 
-
 7. El modelo en espiral es:
-
 Iterativo
-
 Adaptativo
-
 Predictivo
-
 Relativo
 
 8. Que tipos de lenguajes existen:
-
 Compilados e interpretados
-
 Léxico y sintáctico
-
 Ninguno de esos existe
-
 Fuente y compilados
-<<<<<<< HEAD
+
 1. ¿Qué es un código ejecutable?
-
 Es un conjunto de instrucciones compiladas y enlazadas para ser ejecutadas por una computadora. Es lo que se conoce como archivos con la extensión EXE.
-
 Es todo texto que un ser humano puede leer y escribir en un lenguaje de programación específico. El objetivo de este código es crear normas para el ordenador. Es la base de los programas y de las páginas web.
-
 Es el código que se genera a partir del código fuente y que no se puede ejecutar. Es un lenguaje binario o bytecode que se usa para traducir el lenguaje de programación en instrucciones directas para el procesador.
-
 Ninguna de las anteriores
+
 2. ¿Cual de estas características no define a un software?
-
 Para su desarrollo se utiliza un lenguaje de programación de bajo nivel.
-
 Es un conjunto de instrucciones para el sistema informático.
-
 Puede modificarse.
-
 Se puede instalar y desinstalar todas las veces que quieras.
+
 3. ¿Cuál es el propósito del ciclo de vida del software en el desarrollo de proyectos?
-
 Identificar, gestionar y planificar el uso de recursos para alcanzar objetivos predefinidos.
-
 Definir el lenguaje de programación a utilizar.
-
 Establecer el diseño detallado de la interfaz de usuario.
-
 Realizar pruebas exhaustivas del software.
+
 4. ¿Cuáles son las fases principales del desarrollo de software según el texto?
 
 Análisis, diseño, codificación, pruebas, mantenimiento.
@@ -573,170 +564,6 @@ Lógicos
 Funcionales
 
 Algebraicos
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 1. ¿Qué función tiene una tarjeta de RAM?
 

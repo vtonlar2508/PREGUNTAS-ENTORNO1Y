@@ -161,127 +161,98 @@ Establecer el diseño detallado de la interfaz de usuario.
 Realizar pruebas exhaustivas del software.
 
 28. ¿Cuáles son las fases principales del desarrollo de software según el texto?
-
 Análisis, diseño, codificación, pruebas, mantenimiento.
-
 Diseño, codificación, mantenimiento, verificación.
-
 Análisis, implementación, pruebas, validación.
-
 Planificación, desarrollo, entrega, postventa.
+
 29. ¿Cual de estos principios rigen el desarrollo ágil?
-
 Colaboración en lugar de negociaciones contractuales.
-
 Enfoque en documentación completa.
-
 Satisfacción de los procesos y herramientas.
-
 Enfoque en evitar cambios
+
 30. ¿Cuál es uno de los valores clave de la Programación Extrema (XP)?
-
 Comunicación efectiva.
-
 Enfoque en documentación extensa.
-
 Resistencia al cambio.
-
 Satisfacción de la burocracia.
+
 31. ¿Cuál de las siguientes afirmaciones describe correctamente los lenguajes declarativos?
-
 Se enfocan en especificar "qué" resultado se desea obtener, sin preocuparse por los detalles de implementación.
-
 Se centran en describir "cómo" se debe realizar una tarea paso a paso.
-
 Los programadores deben controlar explícitamente las variables y el flujo de ejecución del programa.
-
 Son específicos para una arquitectura de hardware particular y requieren conocimiento profundo del hardware subyacente.
+
 32. ¿Cuál es una ventaja de los lenguajes interpretados?
-
 Permiten cambios en tiempo de ejecución y facilitan la experimentación.
-
 Mayor rendimiento en tiempo de ejecución.
-
 Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
-
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
  
-=======
-
-1. ¿Cuáles son los tipos de código en el  desarrollo del software?
+33. ¿Cuáles son los tipos de código en el  desarrollo del software?
  Fuente, objeto y ejecutable
  Fuente, organizado y ejecutable
  Ejecutable, abstracto y Java
  C, C++ y Python
 
-2. ¿Qué fases principales conocemos en el desarrollo del software?
+34. ¿Qué fases principales conocemos en el desarrollo del software?
  Análisis, diseño, codificación, pruebas y mantenimiento
  Análisis y experimentación
  Todas son correctas
  Ninguna de las anteriores es correcta
 
-3. ¿Para qué sirve un disco duro?
+35. ¿Para qué sirve un disco duro?
  Almacena de forma permanente los archivos ejecutables y los archivos de datos
  Almacena de forma temporal el código binario de los archivos ejecutables y los archivos de datos necesarios
  No sirve para nada
  Para guardar películas y verlas
 
-4. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
+36. ¿Qué se hace en la fase principal de dessarrollo del software llamada codificación?
 Se escribe el código fuente del programa
 Se proponen opciones al  cliente para que elija la más óptima a sus necesidades
 Se consigue que funcione incorrectamente el programa y así descubrir los defectos
 Se atiende a las necesidades del cliente y se especifican los requisitos que debe cumplir el software
 
-5. Tipos de modelo de desarrollo de software
+36. Tipos de modelo de desarrollo de software
 Modelos clásicos, modelo de construcción de prototipos y modelos evolutivos
 Modelos muro, modelos circulares y modelos cuadrados
 Modelo en x y modelo paralelo
 La segunda y tercera respuesta son correctas
 
-6. Como se le denomina a la metodología Kanban
+37. Como se le denomina a la metodología Kanban
 Se le denomina como el sistema de tarjetas
 Se le denomina como el sistema pizarra
 Se le denomina como el sistema sencillo
 Ninguna de las anteriores es correcta
 
-7. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
+38. ¿Cuáles son las dos opciones para obtener código binario ejecutable?
 Compilar e interpretar
 Analizar y programar
 Revisar e interactuar
 Compilar y analizar
 
-8. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
+39. ¿Cómo se le llama al codigo binario intermedio que se obtiene en Java?
 Bytecode
 Bitcoin
 Bits
 Ball
  
-1. ¿Qué es  un código objeto?
-
+40. ¿Qué es  un código objeto?
 Es un archivo binario no ejecutable
-
 Es un archivo binario ejecutable
-
 Es un archivo de texto legible escrito en un lenguaje de programación
-
 Ninguna de las anteriores
 
-2. ¿A qué tipo de software pertenece un compilador?
-
+41. ¿A qué tipo de software pertenece un compilador?
 Software de desarrollo
-
 Software de sistema
-
 software de aplicación
-
 Todas son correctas
 
-3. ¿Cuáles son las fases principales de desarrollo de software?
-
+42. ¿Cuáles son las fases principales de desarrollo de software?
 Análisis, Diseño, Codificación, Pruebas y Mantenimiento
-
 Análisis, Diseño, Codificación, Mantenimiento, Pruebas y Mantenimiento
-
 Análisis, Diseño, Codificación, Mantenimiento y Pruebas
 
 Ninguna de las anteriores
@@ -800,4 +771,6 @@ Mayor rendimiento en tiempo de ejecución.
 Requieren menos memoria y CPU durante la ejecución en comparación con los programas compilados.
 
 Son ideales para aplicaciones de alto rendimiento, como juegos y aplicaciones científicas.
+
+
 

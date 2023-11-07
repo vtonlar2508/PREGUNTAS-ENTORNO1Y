@@ -1,41 +1,25 @@
 1. ¿Qué es el software de sistema operativo?
-
 Sistema operativo y controladores
-
 Suite ofimática, navegador, y otras aplicaciones
-
 Sistema operativo y editores de desarrollo
-
 Editores de desarrollo e intérpretes
 
 2. ¿Cómo se llama al código resultante de la compilación del código fuente escrito en lenguaje JAVA?
-
 Bytecode
-
 Código Script
-
 Megacode
-
 JavaScript
 
 3. ¿Qué tipos de mantenimiento existen?
-
 Correctivo, perfectivo, evolutivo y adaptativo
-
 Correctivo, evolutivo, comprimido y adaptativo
-
 Adaptativo, evolutivo, perfectivo y estratégico
-
 Ninguna es correcta
 
 4. ¿Cuál es el principal objetivo de la fase de pruebas en el ciclo de vida del software?
-
 Conseguir que el programa funcione incorrectamente y que se descubran defectos
-
 Realizar cambios ocasionales
-
 Especificar la funcionalidad de los elementos componentes
-
 Todas son correctas
 
 5. ¿Cómo se jerarquizan los niveles en el modelo de desarrollo en V?

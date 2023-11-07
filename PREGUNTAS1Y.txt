@@ -1148,4 +1148,92 @@ C
 
 PHP
 
-Java
+Javaç
+
+
+1. ¿Qué es un código fuente en programación?
+
+Archivo de texto legible escrito en un lenguaje de programación.
+
+Archivo binario no ejecutable.
+
+Archivo binario ejecutable.
+	
+Archivo de especificaciones del cliente.
+
+
+2. ¿Cuáles son las fases principales en el desarrollo de software?
+
+Análisis, Diseño, Codificación, Pruebas, Mantenimiento.
+
+Compilación, Interpretación, Ejecución, Documentación.
+
+Almacenamiento, Procesamiento, Visualización, Mantenimiento.
+
+Control, Validación, Verificación, Implementación.
+
+
+3. ¿Cuál es la principal diferencia entre los lenguajes compilados y los lenguajes interpretados?
+
+Los lenguajes compilados se convierten directamente en código binario, mientras que los interpretados se ejecutan línea por línea.
+
+Los lenguajes interpretados son más eficientes que los compilados.
+
+Los lenguajes interpretados requieren menos recursos de hardware que los compilados.
+
+Los lenguajes compilados no pueden ser modificados una vez compilados, mientras que los interpretados pueden ser editados en cualquier momento.
+
+
+4. ¿Cuál es la disciplina que estudia los principios y metodologías para el desarrollo y mantenimiento de sistemas software?
+
+Ingeniería del software.
+
+Programación informática.
+
+Desarrollo de aplicaciones.
+
+Control de calidad de software.
+
+
+5. ¿Cuál es el principal enfoque de las metodologías ágiles en el desarrollo de software?
+
+Desarrollo iterativo e incremental según las necesidades del proyecto.
+
+Planificación detallada y rigurosa desde el inicio del proyecto.
+
+Desarrollo secuencial basado en fases predeterminadas.
+
+Implementación de cambios ocasionales durante la fase de mantenimiento.
+
+
+6. ¿Cuál es el modelo de desarrollo que identifica las fases principales del desarrollo de software y requiere que se realicen en un orden específico?
+
+Modelo en cascada.
+
+Modelo en V.
+
+Modelo en espiral.
+
+Modelo ágil.
+
+
+7. ¿Qué tipo de mantenimiento de software implica la corrección de defectos en el sistema?
+
+Correctivo.
+
+Perfectivo.
+
+Evolutivo.
+
+Adaptativo.
+
+
+8. ¿Cuál es la relación entre el disco duro y el software en un sistema informático?
+
+Almacena de forma permanente los archivos ejecutables y de datos.
+
+Lee y ejecuta instrucciones almacenadas en memoria RAM.
+
+Recoge nuevos datos desde la entrada y muestra los resultados.
+
+Controla la fabricación de productos en la cantidad y tiempo necesarios.

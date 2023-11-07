@@ -431,80 +431,49 @@ Funcionales
 Algebraicos
 
 72. ¿Qué es compilar?
-
 Traducir un código de programación a código ejecutable
-
 Reunir en un solo archivo
-
 Ejecutar el código fuente directamente
-
 Ninguna de las anteriores
 
-
-2. ¿Cuál de los siguientes lenguajes es de alto nivel?
-
+73. ¿Cuál de los siguientes lenguajes es de alto nivel?
 C++
-
 Binario 
-
 C
-
 PSOE
-
 HTML
 
-3. ¿Qué es una historia de usuario?
-
+74. ¿Qué es una historia de usuario?
 Todas las respuestas son correctas
-
 Es la unidad de trabajo más pequeña en un marco agil
-
 Es una explicación general e informal de una función nde software escrita desde la perspectiva del usuario final
-
 Estas historias deben escribirse utilizando un lenguaje no técnico para brindar contexto al equipo de desarrollo
 
-4. ¿Cuáles son las principales desventajas de KANBAN?
-
+75. ¿Cuáles son las principales desventajas de KANBAN?
 Ninguna respuesta es correcta
-
 Los tiempos de entrega
-
 Acumulación de trabajo
-
 La Organización del trabajo
 
-
-5. ¿Qué es el código objeto?
-
+76. ¿Qué es el código objeto?
 Conjunto de instrucciones y datos escritos en un lenguaje que entiende el ordenador directamente
-
 Código orientado para programación orientada a objetos
-
 El código escrito directamente por los programadores en editores de texto
-
 Es el código hexadecimal resultante de procesar con un compilador el código fuente
 
-6. ¿Qué es la verificación?
-
+77. ¿Qué es la verificación?
 Es comprobar que el software está de acuerdo con su especificación
-
 Es asegurar que el software cumple las expectativas del cliente
-
 Comprobar o ratificar que es verdadera una cosa.
-
 Es asegurar que el Hardware cumple las expectativas del cliente
 
-7.¿Qué es el Software De Sistemas?
-
+78.¿Qué es el Software De Sistemas?
 Es el conjunto de programas preinstalados en un sistema informático que permiten interactuar con el sistema operativo
-
 La parte blanda del ordenador
-
 Es el programa que permite la construcción y el diseño de otros programas informáticos
-
 Son los programas que no afectan al funcionamiento del ordenador
 
-8.¿Que es el firmware?
+80.¿Que es el firmware?
 
 Es el programa básico que controla los circuitos electronicos de cada dispositivo, siempre esta integrado a la electrónica
 

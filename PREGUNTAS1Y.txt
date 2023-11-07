@@ -1070,3 +1070,82 @@ Almacena de forma temporal el código binario de los archivos ejecutables
 
 Almacena de forma permanente los archivos ejecutables 
 
+1. El código objeto generado por Java se denomina:
+
+Bytecode
+
+Código fuente
+
+Código objeto
+
+Código ejecutable
+
+2. Los drivers se localiza en el software de:
+
+Sistema
+
+Aplicación
+
+Desarrollo
+
+Ninguna de las anteriores
+
+3. Las fases principales del desarrollo de software son:
+
+Análisis, Diseño, Codificación, Pruebas, Mantenimiento
+
+Diseño, Análisis, Codificación, Mantenimiento
+
+Diseño, Codificación, Análisis, Pruebas
+
+Diseño, Codificación, Pruebas, Análisis, Mantenimiento
+
+4. ¿En qué fases del desarrollo es común el uso de los mockup?
+
+Diseño
+
+Codificación
+
+Análisis
+
+Mantenimiento
+
+5. Las metodologías ágiles más destacadas son:
+
+Kanban, Scrum y XP
+
+Scrum, XP y Modelo en cascada
+
+Modelo en espiral, Kanban y Scrum
+
+XP, Scrum y Modelo de prototipos
+
+6. ¿A qué metodología pertence el rol de "Product Owner"?
+
+Scrum
+
+Kanban
+
+XP
+
+Modelo en espiral
+
+7. ¿Cuál de estas ventajas es típica de los lenguajes compilados?
+
+Ejecución muy eficiente
+
+El código fuente se interpreta directamente
+
+Ciclo de desarrollo más rápido
+
+Necesita un programa externo para ser ejecutado
+
+8. ¿Cuál de estos se lenguajes se considera de bajo nivel?
+
+Ensamblador
+
+C
+
+PHP
+
+Java
